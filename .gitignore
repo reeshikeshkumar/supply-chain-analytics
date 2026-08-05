@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
