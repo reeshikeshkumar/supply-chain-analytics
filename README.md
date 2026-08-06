@@ -10,13 +10,9 @@
 - Built forecasting model with 1.59% SMAPE  
 - Developed interactive Tableau dashboard  
 
-[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Prophet](https://img.shields.io/badge/Prophet-Forecasting-FF6F00?style=flat-square)](https://facebook.github.io/prophet/)
-[![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/jahid.hasan3683/viz/Supply_Chain_Analytics_Dashboard/SupplyChainPerformanceDashboard)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](notebooks/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
-
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![SQL](https://img.shields.io/badge/SQL-SQLite-green)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
 ---
 
 ## Overview
@@ -60,7 +56,7 @@ Modern supply chains face a range of compounding challenges:
 
 ## Interactive Dashboard
 
- **[View Live Tableau Dashboard →](https://public.tableau.com/app/profile/jahid.hasan3683/viz/Supply_Chain_Analytics_Dashboard/SupplyChainPerformanceDashboard)**
+ **[View Live Tableau Dashboard →](https://public.tableau.com/views/SupplyChainPerformanceDashboard_17859546309080/SupplyChainPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ![Supply Chain Dashboard Preview](dashboard/dashboard_preview.png)
 
@@ -215,13 +211,15 @@ report.md
 
 ---
 
-## Author
 
-**Hasan Jahid**
+## 👨‍💻 Author
 
-[![GitHub](https://img.shields.io/badge/GitHub-jhsam007-181717?style=flat-square&logo=github)](https://github.com/jhsam007)
-[![Tableau](https://img.shields.io/badge/Tableau-Profile-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/jahid.hasan3683)
+**Reeshikesh Kumar**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Reeshikesh%20Kumar-181717?style=flat-square&logo=github)](https://github.com/reeshikeshkumar)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reeshikesh%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/reeshikesh-kumar-1065b62a7)
 
 ---
 
-*Built with Python, Prophet, SQLite, and Tableau · Open to feedback and contributions*
+*Built with Python, SQL, Tableau, and Prophet for end-to-end Supply Chain Analytics.*
