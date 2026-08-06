@@ -1,2 +1,2 @@
 __version__ = "0.1.0"
-__author__ = "Hasan Jahid"
+__author__ = "Reeshikesh Kumar"
