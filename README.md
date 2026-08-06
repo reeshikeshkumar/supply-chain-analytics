@@ -8,11 +8,11 @@
 - Identified 54% late delivery rate in Standard Class shipping  
 - Discovered strong Q4 seasonality (2.3× demand spike)  
 - Built forecasting model with 1.59% SMAPE  
-- Developed interactive Tableau dashboard  
+- Developed interactive Power BI dashboard  
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-green)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat)
 ---
 
 ## Overview
@@ -22,7 +22,7 @@ The goal is to improve delivery performance, optimize inventory planning, and su
 **Skills demonstrated:**
 - End-to-end data pipeline (ingestion → cleaning → SQL → BI → ML)
 - Time series forecasting with Facebook Prophet (SMAPE: 1.59%)
-- Business intelligence dashboard in Tableau with interactive filters
+- Business intelligence dashboard in Power BI with interactive filters
 - Analytical SQL for operational KPIs
 - Python-based modular source code (`src/`)
 
@@ -56,9 +56,8 @@ Modern supply chains face a range of compounding challenges:
 
 ## Interactive Dashboard
 
- **[View Live Tableau Dashboard →](https://public.tableau.com/views/SupplyChainPerformanceDashboard_17859546309080/SupplyChainPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-![Supply Chain Dashboard Preview](dashboard/dashboard_preview.png)
+![Supply Chain Dashboard Preview](dashboard/dashboard_preview.jpg)
 
 
 > *Open the link above to explore KPIs, trends, and regional breakdowns interactively.*
@@ -133,7 +132,7 @@ A 90-day demand forecast was built using **Facebook Prophet**, with seasonality 
 | Data wrangling | Python (Pandas, NumPy) | Cleaning, feature engineering |
 | Forecasting | Prophet | Time series demand forecasting |
 | Database | SQL (SQLite) | Structured storage & analytical queries |
-| Visualization | Tableau Public | Interactive BI dashboard |
+| Visualization | Power BI | Interactive BI dashboard |
 | Notebooks | Jupyter | EDA and model development |
 
 ---
@@ -222,4 +221,4 @@ report.md
 
 ---
 
-*Built with Python, SQL, Tableau, and Prophet for end-to-end Supply Chain Analytics.*
+*Built with Python, SQL, Power BI, and Prophet for end-to-end Supply Chain Analytics.*
