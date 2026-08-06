@@ -182,7 +182,7 @@ supply-chain-analytics/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/jhsam007/supply-chain-analytics.git
+git clone https://github.com/reeshikeshkumar/supply-chain-analytics.git
 cd supply-chain-analytics
 
 # 2. Create a virtual environment (recommended)
