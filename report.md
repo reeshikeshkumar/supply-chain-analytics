@@ -34,7 +34,7 @@ The main objective of this project is to:
 
 * **Python (Pandas)** → Data cleaning and feature engineering
 * **SQL (SQLite)** → Business query analysis
-* **Tableau** → Interactive dashboard visualization
+* **Power BI** → Interactive dashboard visualization
 
 ---
 
@@ -50,7 +50,7 @@ The dataset was cleaned and prepared using Python:
   * `is_late` (late delivery indicator)
 * Standardized column names for better usability
 
-The cleaned dataset was stored in a SQLite database for efficient querying and integration with Tableau.
+The cleaned dataset was stored in a SQLite database for efficient querying and integration with Power BI.
 
 ---
 
@@ -82,7 +82,7 @@ The cleaned dataset was stored in a SQLite database for efficient querying and i
 
 ## Dashboard Features
 
-The Tableau dashboard includes:
+The Power BI dashboard includes:
 
 * **Key KPIs**:
 
